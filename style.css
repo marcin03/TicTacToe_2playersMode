@@ -1,0 +1,27 @@
+body {
+	background-color:#454855; 
+}
+h1{
+	color: white;
+}
+.main{
+	width:506px; 
+}
+#p1{
+	font-size:30px;
+	color: red;
+}
+.btn1{
+	width:60px; 
+	height:60px; 
+	font-size:30px; 
+	border-radius:8px; 
+	margin:3px
+}
+.btn2{
+	width:200px; 
+	height:60px; 
+	font-size:30px; 
+	border-radius:8px; 
+	margin:3px
+}
